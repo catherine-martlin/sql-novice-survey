@@ -149,7 +149,7 @@ While it may look that the records are consistent every time we ask for them in 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ```sql
-SELECT * FROM person ORDER BY id DESC;
+SELECT * FROM Person ORDER BY id DESC;
 ```
 
 | id         | personal  | family   | 
